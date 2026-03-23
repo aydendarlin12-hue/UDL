@@ -1,18 +1,15 @@
 {
     "id": 57436521,
-    "name": "Test",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "name": "Amityvile",
+    "author": "Itaub",
+    "creators": ["Itsaub"],
+    "verifier": "Aydentoribio",
+    "verification": "https://www.youtube.com/watch?v=WQvtWs_WeRA",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "password": "Free to copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+
         }
     ]
 }
